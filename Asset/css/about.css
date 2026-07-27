@@ -1,0 +1,35 @@
+.about-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about-image img{
+    height: 450px;
+    border-radius: 40px;
+}
+th{
+    padding: 12px 24px;
+}
+tr{
+    border: 2px solid black;
+}
+/* Style footer */
+.page-link ul li {
+    list-style: none;
+}
+.page-link ul li a{
+    text-decoration: none;
+    color: #5B6C7A;
+}
+.footer-container{
+    background: #111827;
+}
+.footer-container hr{
+    color: greenyellow;
+    
+}
+.footer-end{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
