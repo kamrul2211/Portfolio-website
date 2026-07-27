@@ -6,7 +6,7 @@
 
 .hero-main {
     height: 100vh;
-    background-image: linear-gradient(rgba(255, 255, 255, .3)), url(/image/hero2.png);
+    background-image: linear-gradient(rgba(255, 255, 255, .3)), url(/Asset/css/hero2.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
